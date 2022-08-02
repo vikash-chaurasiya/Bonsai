@@ -1,0 +1,47 @@
+*{
+  margin:0;
+  padding:0;
+  font-family: 'Josefin Sans', sans-serif;
+}
+.display-3{
+  font-family: 'Rozha One', serif;
+  color:white;
+  padding-left: 7rem;
+  padding-top: 7rem;
+}
+#below-card{
+  background-color: #fff5fd;
+  padding-top: 90px;
+}
+h1{
+  font-family: verdana;
+}
+.card-container{
+
+  width:100vh;
+  height: 800px;
+}
+.xyz{
+  position: relative;
+  bottom:250px;
+}
+.grow{
+ width: 90%;
+}
+.bgm-image{
+  height: 100vh;
+}
+#copyright-link a{
+  text-decoration: none;
+}
+@media(max-width:600px){
+  #bg1{
+    background-image: url('C:\Users\vikas\Desktop\web\Bonsoi\images\bg1.jpg');
+  }
+  #form-12{
+    width:100px;
+    padding: 0px;
+
+  }
+}
+
